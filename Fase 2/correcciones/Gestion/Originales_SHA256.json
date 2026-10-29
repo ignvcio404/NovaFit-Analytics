@@ -1,0 +1,25 @@
+{
+  "commit_base": "d86a6b6a0836335a0be06f9d2cd37d24383551bc",
+  "algoritmo": "SHA-256",
+  "archivos": {
+    "Fase 2/Evidencias Proyecto/NovaFit-Analytics-Suite.zip": "581e80caa5e835b11d4cd3f4654c9f433d3bb2b0027f20a00973e78ac71827cf",
+    "Fase 2/Evidencias Proyecto/Diagrama Relacional.png": "64c9dd99feea5704e9bf5eca802953c988a75f516f05f0652aa5c0cbcffcc6e8",
+    "Fase 2/Evidencias Proyecto/schema.sql": "3cabf2b7014ab4d4b5611c3f7c468ed36c912d0b78b90aef4c232f813bf9314d",
+    "Fase 2/Evidencias Proyecto/NovaFit Analytics Suite  Capstone 2026 — Presentación Fase 2.pdf": "35103ff5fecac1be9e5803a9836ebb1d9e3d78c3a731506cb2f01e968986d77c",
+    "Fase 2/Evidencias individuales/Felipe_Romero_2.1_APT122_Pauta Reflexión Fase2.docx": "f6e11aea51ed82fc5800f019084804b6b6727ba5ee82523fcb9b31831384bf7f",
+    "Fase 2/Evidencias individuales/Steven_SanMartín_2.1_APT122_PautaReflexionFase2.docx": "1510e95d98079283c8b843b9156924ec4dc8411f4db64362ddd6228bf36da7d4",
+    "Fase 2/Evidencias individuales/Silva_Yulian_2.1_APT122_diarioReflexiónFase2.docx": "71d21ff8dafeecfafcade1c16739cadbea98fce99f6ca8f61e2f03b06ef7523b",
+    "Fase 2/Evidencias individuales/Vicente_Gilbert_2.1_APT122_Pauta Reflexión Fase2.docx": "00b25eb778da2cd09fd5ac16005e97bb726e76c8fb033e1672f2167e39d3440e",
+    "Fase 2/Evidencias individuales/Antonio_Maturana_2.1_APT122_Pauta Reflexión Fase2.docx": "9d9670dfec0a7dc8b80ce598e8dc98fd00b8f4964f4aa4b6cc2df053d9512346",
+    "Fase 2/Evidencias Grupales/MATRIZ CONTROL DE CAMBIO.xlsx": "dab11d64e158eccf2cfc9ca502a940654efd50047bb50c02542fe5a3a5c11173",
+    "Fase 2/Evidencias Grupales/Documento Proceso Negocio.docx": "6e793b578eed6495ef62065dd7a03544031a5c4cc5f414b9790ed5412c250b6d",
+    "Fase 2/Evidencias Grupales/2.4_GuiaEstudiante_Fase 2_DesarrolloProyecto APT.docx": "c0f1c112bec7593bd71e3f64402f2ae6f1981ca474117a90ff0bf15045fdfd01",
+    "Fase 2/Evidencias Grupales/2.6_GuiaEstudiante_Fase 2_Informe Final Proyecto APT.docx": "f2930d9e73f5f3d57e6756793dfec81ba1d3683f66722fad2b30af1bce0c62ef",
+    "Fase 2/Evidencias Grupales/Minuta de reunion Portafolio.docx": "69f683ea69dea3dbe7752c04cf848b0972927b92df3a445f1e9ab04ee8e87445",
+    "Fase 2/Evidencias Grupales/MATRIZ RACI.xlsx": "ce92244f5a05b502824b6aafa9bbb965689c7674394ea0870dc63e12c7d58f19",
+    "Fase 2/Evidencias Grupales/Documento de avance de sprint.docx": "fb8ffe6b78b1ebe58a358c4cc67aec2514f58471490c6573ed9d3d638d0d0ccf",
+    "Fase 2/Evidencias Grupales/MATRIZ DE RIESGO.xlsx": "d5a32c1c16357737065b84cc04fd773bef90b3ca9a1937b3e79649b5a151e78f",
+    "Fase 2/Evidencias Grupales/DAS (Documento Arquitectura Sistema).docx": "6792a7adb8036575832ca575036bd878eb481b8f39d914c7b25c908c6c5e7ec2",
+    "Fase 2/Evidencias Grupales/Diccionario de Datos.docx": "1f8e02bcb1e922fd7ae74b2ed4f0b4f337c4c96edb35c7869ce0be2a4e95c57f"
+  }
+}
